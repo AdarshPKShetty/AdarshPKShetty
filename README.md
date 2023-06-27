@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋 My name is Adarsh Kalyanshetty and I am a highly skilled Analytics and Data Science professional, I am passionate about uncovering insights that drive business growth. With over five years of experience in product analytics, data analytics, and decision science across various industries such as fintech, healthcare, e-commerce, and sustainability, I bring a diverse perspective and skill set to the table. In addition to my strong background in electronics engineering, I recently graduated with a Master of Science in Business Analytics at the University at Buffalo - School of Management. What sets me apart is my ability to adapt to any situation, define problem statements, and provide effective solutions around them.
+
+You can reach me at https://www.linkedin.com/in/adarshkalyanshetty or adarsh.kalyanshetty@gmail.com
+
+Technical Skills: SQL, Python, R, Microsoft Excel, VBA, Tableau, Amplitude, Qlik, PowerBI
 
 <!--
 **AdarshPKShetty/AdarshPKShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
